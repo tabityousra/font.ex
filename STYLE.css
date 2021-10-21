@@ -1,0 +1,13 @@
+p
+{
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 300px;
+   
+}
+p span
+{
+    font-size:smaller
+}
